@@ -1,13 +1,32 @@
-# IP-finder
+# IP Info Lookup
 
+**IP Info Lookup** is a lightweight, browser-based web application that allows users to retrieve detailed information about any IPv4 address using a public IP geolocation API.
 
-A simple IP address finder built with public APIs, provides users with IP information such as:
+This project is entirely frontend-based, with no server-side components required.
 
-- Country 
-- Region
-- City
-- ZIP Codes
-- Timezone
-- Internet service provider
-- Organization
-- Latitude and Longitude
+## Features
+
+- Accepts user input of any valid IPv4 address
+- Displays geolocation and network information including:
+  - Country and Country Code
+  - Region and City
+  - ZIP Code
+  - Latitude and Longitude
+  - Timezone
+  - Internet Service Provider (ISP)
+  - Organization
+- Clean, user-friendly interface with no dependencies
+- Optional integration of a static map based on geolocation coordinates
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- External API: [ip-api.com](http://ip-api.com/json/)
+
+## Getting Started
+
+1. Clone or download the repository:
+
+   git clone https://github.com/CA3SAR99/ip-info-lookup.git
