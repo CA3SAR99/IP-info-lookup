@@ -1,0 +1,64 @@
+body {
+  background: #111;
+  color: #00ff41;
+  font-family: 'Fira Mono', 'Consolas', monospace;
+  padding: 20px;
+  max-width: 600px;
+  margin: auto;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+h2 {
+  color: #00ff41;
+  text-shadow: 0 0 8px #00ff41;
+  letter-spacing: 2px;
+  text-align: center;
+}
+
+input, button {
+  background: #222;
+  color: #00ff41;
+  border: 1px solid #00ff41;
+  padding: 8px;
+  margin-top: 10px;
+  font-family: inherit;
+  border-radius: 3px;
+  outline: none;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+input::placeholder {
+  color: #00ff41a0;
+}
+
+button {
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+button:hover {
+  background: #00ff41;
+  color: #111;
+}
+
+.result {
+  display: none; /* Hide by default */
+  margin-top: 20px;
+  padding: 15px;
+  background: #181818;
+  border-radius: 5px;
+  box-shadow: 0 0 10px #00ff4160;
+  font-size: 1.1em;
+  word-break: break-all;
+  text-align: center;
+}
+
+strong {
+  color: #39ff14;
+}
