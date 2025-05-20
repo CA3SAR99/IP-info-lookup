@@ -11,5 +11,3 @@ A simple IP address finder built with public APIs, provides users with IP inform
 - Internet service provider
 - Organization
 - Latitude and Longitude
-
-Feel free to download and use it as you wish 
