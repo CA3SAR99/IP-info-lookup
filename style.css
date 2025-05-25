@@ -56,9 +56,27 @@ button:hover {
   box-shadow: 0 0 10px #00ff4160;
   font-size: 1.1em;
   word-break: break-all;
-  text-align: center;
+  text-align: left; /* Change from center to left */
 }
 
 strong {
   color: #39ff14;
+}
+
+.input-row {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto 0 auto;
+}
+
+.input-row input,
+.input-row button {
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  display: inline-block;
 }
