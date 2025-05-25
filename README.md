@@ -2,7 +2,7 @@
 
 **IP Info Lookup** is a lightweight, browser-based web application that allows users to retrieve detailed information about any IPv4 address using a public IP geolocation API.
 
-This project is entirely frontend-based, with no server-side components required.
+This project is entirely frontend-based, with no server-side components (besides the public APIs) required.
 
 ## Features
 
