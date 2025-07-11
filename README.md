@@ -25,8 +25,3 @@ This project is entirely frontend-based, with no server-side components (besides
 - JavaScript (Vanilla)
 - External API: [ip-api.com](http://ip-api.com/json/)
 
-## Getting Started
-
-1. Clone or download the repository:
-
-   git clone https://github.com/CA3SAR99/ip-info-lookup.git
