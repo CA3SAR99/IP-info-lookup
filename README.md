@@ -4,6 +4,8 @@
 
 This project is entirely frontend-based, with no server-side components (besides the public APIs) required.
 
+You may change the API key with your own private one as long as its from the same API server, or there may be issues in terms of formatting etc...
+
 ## Features
 
 - Accepts user input of any valid IPv4 address
