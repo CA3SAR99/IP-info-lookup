@@ -19,8 +19,7 @@ You may change the API key with your own private one as long as its from the sam
   - Timezone
   - Internet Service Provider (ISP)
   - Organization
-- Clean, user-friendly interface with no dependencies
-- Optional integration of a static map based on geolocation coordinates
+  - Clean, user-friendly interface with no dependencies or advanced frameworks
 
 ## Technologies Used
 
