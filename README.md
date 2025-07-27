@@ -1,5 +1,4 @@
 # IP Info Lookup
-<img width="471" height="176" alt="Screen Shot 2025-07-27 at 11 59 07 AM" src="https://github.com/user-attachments/assets/8697f436-0b4a-4ef0-9b90-80bda3c238f3" />
 
 **IP Info Lookup** is a lightweight, browser-based web application that allows users to retrieve detailed information about any IPv4 address using a public IP geolocation API.
 
